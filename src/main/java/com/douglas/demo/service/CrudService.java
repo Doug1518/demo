@@ -1,4 +1,4 @@
-package com.douglas.demo.service.impl;
+package com.douglas.demo.service;
 
 import java.util.List;
 

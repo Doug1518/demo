@@ -1,7 +1,7 @@
 package com.douglas.demo.controller;
 
 import com.douglas.demo.controller.dto.UserDto;
-import com.douglas.demo.service.impl.UserService;
+import com.douglas.demo.service.UserService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import io.swagger.v3.oas.annotations.responses.ApiResponses;

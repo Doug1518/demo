@@ -1,4 +1,4 @@
-package com.douglas.demo.service.impl;
+package com.douglas.demo.service;
 
 
 import com.douglas.demo.domain.model.User;
